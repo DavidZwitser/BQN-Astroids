@@ -1,1 +1,2 @@
-### Astroids! In BQN!! Not polished, but a cool example.
+### Astroids, in BQN!
+Not polished or good/readable code, but a cool example.
